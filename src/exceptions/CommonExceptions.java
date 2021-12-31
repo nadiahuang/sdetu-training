@@ -1,4 +1,4 @@
-package exceptionsfiles;
+package exceptions;
 
 public class CommonExceptions {
 
