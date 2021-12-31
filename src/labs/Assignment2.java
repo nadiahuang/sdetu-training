@@ -7,7 +7,7 @@ public class Assignment2 {
 		NewStudent stu1 = new NewStudent("Jane", "127563671");
 
 		stu1.setPhone("0895467879");
-		stu1.setCity("Johannesburg");
+		stu1.setCity("Pretoria");
 		stu1.setState("Gauteng");
 
 		System.out.println("Phone: " + stu1.getPhone());
